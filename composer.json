@@ -1,0 +1,15 @@
+{
+    "name": "php/webdriver",
+    "description": "A php client for WebDriver",
+    "keywords": ["webdriver", "selenium", "php"],
+    "homepage": "https://github.com/Dell-/phpdriver",
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "netwing/selenium-server-standalone": "*"
+    }
+}
